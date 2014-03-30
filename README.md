@@ -1,5 +1,6 @@
 gestureui
 =========
+note: DEPRECATED. Go [here](http://github.com/signwave/signwave) instead.
 
 project for #swtolib14
 
